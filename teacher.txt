@@ -1,0 +1,2 @@
+3105	rana	ahmed	rana_ahmed	rana@gmail.com	BS-AI	22/1/23	m	FSC	123456	
+3105	rana	ahmed	rana_ahmed	rana@gmail.com	BS-AI	22/1/23	M	ICS	12345678	
